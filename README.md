@@ -10,3 +10,5 @@ Para ejecutar los notebooks, es recomendable usar un entorno virtual de Python3 
 * tensorflow              2.10.0
 
 Obs: tensorflow por el momento funciona con versiones de Python3 comprendidas entre la 3.6 y la 3.10. Considerarlo al momento de instalar los paquetes correspondientes.
+
+Por otro lado, los datasets .cvs incluídos en este repositorio deben encontrarse en el mismo directorio que el notebook para que este pueda utilizarlos.
